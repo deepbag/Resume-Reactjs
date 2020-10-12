@@ -13,7 +13,7 @@ function App() {
       <div className="row">  
         <div className="col-lg-4 p-3"> 
           <div className="div-color text-center">
-            <img src="/img/deep.jpg" className="img-fluid rounded-circle avatar-img" alt="avatar"/>
+            <img src={process.env.PUBLIC_URL + "/img/deep.jpg"} className="img-fluid rounded-circle avatar-img" alt="avatar"/>
           </div>
         </div> 
       
