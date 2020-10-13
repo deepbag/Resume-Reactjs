@@ -9,6 +9,6 @@
  <a href="https://www.facebook.com/deep.bagh.509/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </div>
 
-<p align="center">
+<p align="center" margin-top="5px">
   <img src="https://github.com/deepbag/starmech/blob/master/img/react-resume.png" alt="React Resume">
 </p>
